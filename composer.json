@@ -31,12 +31,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Elasticsearch\\": "src/Elasticsearch/"
+      "Elasticsearch6\\": "src/Elasticsearch/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Elasticsearch\\Tests\\":      "tests/Elasticsearch/Tests/"
+      "Elasticsearch6\\Tests\\":      "tests/Elasticsearch/Tests/"
     }
   },
   "config": {
